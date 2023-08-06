@@ -5,5 +5,5 @@
 <br><br>
 دانشجو: امین کاظمی
 <br><br>
-<a href="./Project.ipynb">فایل پروژه</a>
+<a href="./project.ipynb">فایل پروژه</a>
 </div>
